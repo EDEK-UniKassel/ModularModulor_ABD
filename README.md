@@ -1,3 +1,3 @@
-# ModularModulor_test
+# Modular+Modulor Design Studio - Activity-Based Design Data 
 
-testing automated sharing and download of files for the Modular + Modulor studio.
+Collection of body poses and voxel data for Activity-Based Design.
